@@ -1,0 +1,15 @@
+[09-Apr-2016 01:23:07 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 55
+[09-Apr-2016 01:23:07 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 58
+[09-Apr-2016 01:23:07 America/Chicago] PHP Warning:  Login::dologinWithPostData(): Couldn't fetch mysqli in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 59
+[09-Apr-2016 01:24:29 America/Chicago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'a4332'@'localhost' to database 'login' in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 55
+[09-Apr-2016 01:24:29 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 58
+[09-Apr-2016 01:24:29 America/Chicago] PHP Warning:  Login::dologinWithPostData(): Couldn't fetch mysqli in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 59
+[09-Apr-2016 01:24:34 America/Chicago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'a4332'@'localhost' to database 'login' in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 55
+[09-Apr-2016 01:24:34 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 58
+[09-Apr-2016 01:24:34 America/Chicago] PHP Warning:  Login::dologinWithPostData(): Couldn't fetch mysqli in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 59
+[09-Apr-2016 01:25:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'a4332'@'localhost' to database 'login' in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Registration.php on line 69
+[09-Apr-2016 01:25:12 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Registration.php on line 72
+[09-Apr-2016 01:25:12 America/Chicago] PHP Warning:  Registration::registerNewUser(): Couldn't fetch mysqli in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Registration.php on line 73
+[09-Apr-2016 01:25:54 America/Chicago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'a4332'@'localhost' to database 'login' in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 55
+[09-Apr-2016 01:25:54 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 58
+[09-Apr-2016 01:25:54 America/Chicago] PHP Warning:  Login::dologinWithPostData(): Couldn't fetch mysqli in /home/a4332/public_html/quizzit/php-login-minimal-master/classes/Login.php on line 59
